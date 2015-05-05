@@ -32,6 +32,9 @@ local.properties
 ## Cocos2d-x
 #################
 
+proj.win32/
+proj.linux/
+proj.android/
 proj.ios_mac/
 proj.tizen/
 proj.win8.1-universal/
